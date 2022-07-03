@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283824035969']
-global.premium = ['6283824035969']
+global.owner = ['62895326986843']
+global.premium = ['62895326986843']
 global.namaowner = ['Putra']
 global.namabot = ['PutraBot']
 global.packname = 'Created By Putraaa'
